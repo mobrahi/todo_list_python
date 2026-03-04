@@ -80,3 +80,23 @@ Tasks are automatically saved in tasks.json:
   }
 ]
 ```
+
+## 🛠️ Built With
+
+- Python 3.x - Core language
+- JSON module - Data persistence
+- datetime module - Timestamps
+- os module - File operations
+
+## 🎯 Learning Outcomes
+
+This project teaches:
+
+- File I/O operations
+- JSON data handling
+- CRUD operations (Create, Read, Update, Delete)
+- Object-Oriented Programming basics
+- Date/time manipulation
+- Menu-driven interfaces
+- Data persistence
+
