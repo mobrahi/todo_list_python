@@ -100,3 +100,23 @@ This project teaches:
 - Menu-driven interfaces
 - Data persistence
 
+## 📝 License
+
+This project is licensed under the MIT License.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## ⭐ Show your support
+
+Give a ⭐ if this project helped you!
+
+## Features That Can be Added Later
+
+1. GUI Version using Tkinter
+2. Web Version using Flask
+3. Database using SQLite
+4. Due Date Reminders
+5. Task Categories
+6. Search/Filter Options
